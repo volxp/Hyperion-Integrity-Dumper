@@ -23,8 +23,8 @@ Dumps: This tool scans for the **Roblox's Hyperion integrityChecks**
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/volxp/HyperionChecks-Dumper.git
-    cd HyperionChecks-Dumper
+    git clone https://github.com/volxp/Hyperion-Integrity-Dumper.git
+    cd Hyperion-Integrity-Dumper
     ```
 2. Build the project (MSVC).  
 3. Start Roblox.  
